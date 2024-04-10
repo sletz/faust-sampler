@@ -1,6 +1,6 @@
 # faust-sampler
 
-Example of samplers using the [soundfile](https://faustdoc.grame.fr/manual/syntax/#soundfile-primitive) primitive, to be played in polyphonic mode:
+Example of samplers using the [soundfile](https://faustdoc.grame.fr/manual/syntax/#soundfile-primitive) primitive, to be played in monophonic (first example) or polyphonic mode (second and third examples), in **ScriptProcessor** mode only for now:
 
 - a test version to play a sample in loop: https://faustide.grame.fr/?code=https://raw.githubusercontent.com/sletz/faust-sampler/main/mono.dsp.
 
