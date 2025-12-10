@@ -15,3 +15,5 @@ The raw DSP files can also tested in the [test page](https://fausteditor.grame.f
 - https://raw.githubusercontent.com/sletz/faust-sampler/main/sampler.dsp to be tested in polyphonic mode 
 
 - https://raw.githubusercontent.com/sletz/faust-sampler/main/piano.dsp to be tested in polyphonic mode 
+
+Soundfiles hosted on GitHub can also be accessed through the jsDelivr CDN, which provides CORS-enabled URLs, starting with https://cdn.jsdelivr.net/gh/. Therefore, the previous files can also be delivered using the following base URL: declare soundfiles "https://cdn.jsdelivr.net/gh/sletz/faust-sampler/";"
